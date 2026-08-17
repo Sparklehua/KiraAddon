@@ -1,6 +1,6 @@
 # KiraAddon
 
-本模组是为StarRailExpress的JOJO 角色附属包，添加了**吉良吉影**和**东方仗助**两个角色。
+本模组是StarRailExpress的JOJO 角色附属包，添加了**吉良吉影**和**东方仗助**两个角色。
 
 非官方角色附属模组声明
 
