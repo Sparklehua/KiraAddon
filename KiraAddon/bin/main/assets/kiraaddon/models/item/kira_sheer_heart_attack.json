@@ -1,0 +1,7 @@
+{
+	"format_version": "1.18.10",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "kiraaddon:item/sheer_heart_attack"
+	}
+}

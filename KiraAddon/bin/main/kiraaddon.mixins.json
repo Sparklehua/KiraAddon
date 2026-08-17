@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "package": "org.agmas.kiraaddon.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "ShopContentMixin",
+    "KiraScreenMixin",
+    "client.PlayerBodyEntityClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

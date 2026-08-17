@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "kiraaddon",
+  "version": "1.0.0",
+  "name": "Kira Yoshikage Addon",
+  "description": "吉良吉影角色附属包 - 包含枯萎穿心攻击",
+  "authors": [
+    "KiraAddon Team"
+  ],
+  "contact": {
+    "sources": "https://github.com/"
+  },
+  "license": "MIT",
+  "icon": "assets/kiraaddon/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.agmas.kiraaddon.KiraAddon"
+    ],
+    "client": [
+      "org.agmas.kiraaddon.KiraAddonClient"
+    ],
+    "cardinal-components": [
+      "org.agmas.kiraaddon.cca.KiraComponents"
+    ]
+  },
+  "mixins": [
+    "kiraaddon.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "starrailexpress": ">=4.0.0",
+    "cardinal-components-base": ">=6.0.0",
+    "cardinal-components-entity": ">=6.0.0"
+  },
+  "suggests": {
+    "voicechat": "*"
+  },
+  "custom": {
+    "cardinal-components": [
+      "kiraaddon:kira_player",
+      "kiraaddon:josuke_player"
+    ]
+  }
+}
