@@ -6,7 +6,7 @@
 
 本模组是 StarRailExpress（残月列车 / The Harpy Express）的非官方角色附属模组。
 
-- 非残月团队官方的附属模组，与残月团队无任何从属或合作关系；
+- 非残月团队官方的附属模组；
 - 原模组（StarRailExpress）开源仓库：https://github.com/catmoon-train/StarRailExpress;
 - 本模组按上游相同的 GPL-3.0 协议开源（见 LICENSE），并保留上游 LICENSE；
 - 按 GPL-3.0 要求：本模组基于 StarRailExpress 修改，含其派生代码，任何使用/修改/分发必须遵守 GPL-3.0。
